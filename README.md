@@ -1,6 +1,6 @@
 # JAVA COMPLETO - Projeto JavaFx com JDBC
 
-## Objetivo do curso
+## Objetivo
 
 - Introdução ao desenvolvimento de aplicações JavaFx com JDBC
 - Fundamentos e a utilização de ferramentas para prosseguir estudando as especifidades
